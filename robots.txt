@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ronglod.github.io/sitemap.html.gz
+Sitemap: https://ronglod.github.io/app/sitemap.html.gz
+Sitemap: https://ronglod.github.io/assets/sitemap.html.gz
+Sitemap: https://ronglod.github.io/css/sitemap.html.gz
+Sitemap: https://ronglod.github.io/data/sitemap.html.gz
+Sitemap: https://ronglod.github.io/includes/sitemap.html.gz
+Sitemap: https://ronglod.github.io/item/sitemap.html.gz
+Sitemap: https://ronglod.github.io/src/sitemap.html.gz
